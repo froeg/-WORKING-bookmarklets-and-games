@@ -1,1 +1,0 @@
-javascript:setTimeout(() => {location.reload(1)}, 5000);alert("hi")

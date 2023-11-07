@@ -1,2 +1,0 @@
-javascript:(function(){window.addEventListener('beforeunload',function(){return"Whoa bro, you tried to close me. \n Did you mean to do that?"})})();
-

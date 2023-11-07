@@ -1,1 +1,0 @@
-javascript: var a=1;(() => {return '<p><var>a</var></p>';})();
